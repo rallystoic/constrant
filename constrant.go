@@ -5,7 +5,7 @@ type TestConstrant struct {
 	Pass string
 }
 
-func TestPrintConstrant(string) {
+func TestPrintConstrant() {
 
 	return "Hello"
 
